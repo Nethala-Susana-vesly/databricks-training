@@ -170,5 +170,5 @@ Each folder contains:
 ---
 
 # 👩‍💻 Author
-### Divyasree Neelapala
+### Susana Vesly Nethala
 BTECH - Information Technology
