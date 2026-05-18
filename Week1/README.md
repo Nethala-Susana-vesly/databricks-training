@@ -1,174 +1,143 @@
-# 🚀 SQL Practice Repository
+# 📅 SQL Learning Journey
 
-Welcome to my SQL Practice Repository 🎯  
-This repository contains week-wise and day-wise SQL practice programs created as part of my Data Engineering learning journey.
+## 🚀 Day 1 – SQL Basics
 
-The repository covers fundamental to advanced SQL concepts including:
-- SQL Basics
-- Clauses & Operators
-- JOIN Operations
-- Window Functions
-- CTEs
-- NULL Functions
-- String Functions
-- Number Manipulations
-- REGEX
-- Advanced SQL Queries
-
-All topics are organized in a structured format for easy learning and revision.
-
----
-
-# 📂 Repository Structure
-
-# 📅 Week 1
-
-## 🔹 Day 1 – SQL Basics
-Topics Covered:
+### 📚 Concepts Learned
 - SELECT
 - WHERE
 - ORDER BY
 - DISTINCT
 - LIMIT
-- Aggregate Functions
+- COUNT()
+- AVG()
+- MAX()
+- MIN()
+- SUM()
+- INNER JOIN
+- LEFT JOIN
 - Primary Key
 - Foreign Key
+- NULL Values
+
+### 🛠 Practice Work
+- Creating databases and tables
+- Inserting records
+- Writing basic queries
+- Filtering and sorting data
 
 ---
 
-## 🔹 Day 2 – SQL Clauses & Operators
-Topics Covered:
+## 🚀 Day 2 – SQL Clauses & Operators
+
+### 📚 Concepts Learned
 - GROUP BY
 - HAVING
-- DISTINCT
-- LIMIT
 - Comparison Operators
 - Logical Operators
+- IN & NOT IN
 - BETWEEN
-- IN / NOT IN
 - LIKE Operator
+
+### 🛠 Practice Work
+- Employee table queries
+- Filtering records
+- Grouping data
+- Aggregate calculations
+- Pattern matching
 
 ---
 
-## 🔹 Day 3 – SQL JOIN Operations
-Topics Covered:
-- INNER JOIN
+## 🚀 Day 3 – SQL JOIN Operations
+
+### 📚 Concepts Learned
 - LEFT JOIN
 - RIGHT JOIN
 - FULL OUTER JOIN
-- NULL Handling in Joins
+- INNER JOIN
+- Handling NULL values
+- Combining multiple tables
+
+### 🛠 Practice Work
+- Student & Course database queries
+- Enrollment reports
+- Instructor reports
+- FULL OUTER JOIN using UNION
 
 ---
 
-## 🔹 Day 4 – Window Functions & CTEs
-Topics Covered:
+## 🚀 Day 4 – Window Functions & CTEs
+
+### 📚 Concepts Learned
+#### Window Functions
 - ROW_NUMBER()
 - RANK()
 - DENSE_RANK()
 - NTILE()
 - LAG()
 - LEAD()
-- CTE
-- Recursive CTE
+
+#### CTE Concepts
+- Simple CTE
+- Multiple CTEs
+- Recursive CTEs
+
+#### Analytical Concepts
+- Running Totals
+- Moving Averages
+- Salary Analysis
+- Sales Analysis
+
+### 🛠 Practice Work
+- Employee rankings
+- Customer spending reports
+- Monthly sales trends
+- Hierarchy queries
 
 ---
 
-## 🔹 Day 5 – Advanced SQL Queries
-Topics Covered:
+## 🚀 Day 5 – Advanced SQL Queries
+
+### 📚 Concepts Learned
 - Aggregate Functions
+- GROUP BY & HAVING
 - Subqueries
 - Window Functions
 - Ranking Functions
 - Analytical Queries
 
----
+### 🛠 Window Functions Practiced
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- NTILE()
+- LAG()
+- LEAD()
+- PERCENT_RANK()
+- CUME_DIST()
 
-# 📅 Week 2
-
-## ⚡ Day 1 – NULL Functions
-Topics Covered:
-- IFNULL()
-- COALESCE()
-- NULLIF()
-- IS NULL
-- IS NOT NULL
-
----
-
-## 🔢 Day 2 – Number Manipulation Functions
-Topics Covered:
-- ABS()
-- ROUND()
-- CEIL()
-- FLOOR()
-- TRUNCATE()
-- MOD()
-- POWER()
-- SQRT()
-- SIGN()
-- RAND()
-- FORMAT()
-- GREATEST()
-- LEAST()
+### 🛠 Practice Work
+- Student performance analysis
+- CGPA rankings
+- Running totals
+- Subject average comparisons
+- Analytical report generation
 
 ---
 
-## 🔤 Day 3 – String Functions
-Topics Covered:
-- LEFT()
-- RIGHT()
-- INSTR()
-- LOCATE()
-- REPLACE()
-- REVERSE()
-- LPAD()
-- RPAD()
-- TRIM()
-- CONCAT()
-- UPPER()
-- LOWER()
-- LENGTH()
-- FIND_IN_SET()
-
----
-
-## 🔍 Day 4 – REGEX in SQL
-Topics Covered:
-- REGEXP
-- Pattern Matching
-- Email Validation
-- Mobile Number Validation
-- Data Filtering
-
----
-
-# 🛠️ Technologies Used
+# 🛠 Technologies Used
+- SQL
 - MySQL
+- PostgreSQL
 - DB Fiddle
 - GitHub
 
 ---
 
-# 🎯 Learning Outcomes
-✅ SQL Fundamentals  
-✅ Query Writing Skills  
-✅ Analytical SQL Concepts  
-✅ Database Relationships  
-✅ Window Functions  
-✅ Real-Time SQL Scenarios  
+# 🎯 Overall Learning Outcome
+- Improved SQL fundamentals
+- Learned JOIN operations clearly
+- Practiced analytical queries
+- Improved problem-solving skills
+- Gained confidence in SQL query writing
 
----
-
-# 📁 Folder Organization
-Each folder contains:
-- README.md
-- SQL Scripts
-- Sample Data
-- Query Files
-- Output Files
-
----
-
-# 👩‍💻 Author
-### Susana Vesly Nethala
-BTECH - Information Technology
+  
