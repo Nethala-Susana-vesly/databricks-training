@@ -1,0 +1,16 @@
+select LEFT(full_name,4),RIGHT(city,3) from employees;
+select email,INSTR(email,'@') from employees;
+select email,LOCATE('.',email) from employees;
+select REPLACE(department,'Data','Big Data') from employees;
+select full_name,REVERSE(full_name) from employees;
+select LPAD(emp_id,5,'0') from employees;
+select RPAD(city,15,'*') from employees;
+select TRIM(REPLACE(city,' ','')) from employees;
+select full_name,IFNULL(remarks,'No remarks') from employees;
+select full_name,COALESCE(remarks,'N/A') from employees;
+select FIND_IN_SET('Analytics','Data,Analytics,AI');
+select UPPER(full_name) from employees;
+select LOWER(department) from employees;
+select LENGTH(full_name) from employees;
+select TRIM(full_name) from employees;
+select CONCAT(full_name,' - ',city) from employees;
