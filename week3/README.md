@@ -1,4 +1,3 @@
-
 # 📘 SQL Practice Repository
 
 ---
@@ -78,4 +77,25 @@ This assignment demonstrates basic DataFrame operations using PySpark in Databri
 
 # 📖 Learning Outcomes
 - Learned PySpark DataFrame operations
--
+- Understood filtering and sorting
+- Created derived columns
+- Worked with datatypes and functions
+- Practiced PySpark queries in Databricks
+
+---
+
+# 🎯 Conclusion
+This assignment helped in understanding core PySpark concepts and DataFrame transformations using Databricks.
+
+---
+
+# 🛠️ Technologies Used
+- MySQL
+- PySpark
+- Databricks
+- GitHub
+
+---
+
+# 👩‍💻 Author
+**N.Susana Vesly**
