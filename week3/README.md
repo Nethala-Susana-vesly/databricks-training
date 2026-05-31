@@ -88,6 +88,76 @@ This assignment demonstrates basic DataFrame operations using PySpark in Databri
 This assignment helped in understanding core PySpark concepts and DataFrame transformations using Databricks.
 
 ---
+# 📅 Day-4
+
+# 🚀 SQL to PySpark – Phase 3 ETL Pipeline
+
+## 📌 Overview
+This project demonstrates basic ETL operations using PySpark in Databricks Free Edition.
+
+---
+
+# 🔄 ETL Process
+
+- 📥 **Extract** → Read CSV files
+- 🛠️ **Transform** → Clean and process data
+- 📤 **Load** → Display/save final output
+
+---
+
+# 🧰 Technologies Used
+
+- PySpark
+- Databricks
+- Spark SQL
+- CSV Files
+
+---
+
+# ✅ Tasks Performed
+
+- Read CSV files
+- Checked schema using `printSchema()`
+- Cleaned NULL values
+- Removed duplicates
+- Filtered invalid records
+- Performed aggregations
+- Converted SQL queries to PySpark
+
+---
+
+# 📚 Key Learnings
+
+- Data cleaning techniques
+- Schema understanding
+- ETL pipeline building
+- SQL to PySpark mapping
+- Real-world data processing
+
+---
+
+# 🔥 Workflow
+
+```text
+Read Data
+   ↓
+Clean Data
+   ↓
+Filter Records
+   ↓
+Aggregate Data
+   ↓
+Generate Output
+```
+
+---
+
+# 📂 Files Used
+
+- empData.csv
+- Big Sales.csv
+
+---
 
 # 🛠️ Technologies Used
 - MySQL
