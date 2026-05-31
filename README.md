@@ -23,7 +23,6 @@ README.md
 
 ---
 
-# 📚 Quick Glimpse
 
 # 📚 Quick Glimpse
 
