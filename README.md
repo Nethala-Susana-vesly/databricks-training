@@ -25,89 +25,28 @@ README.md
 
 # 📚 Quick Glimpse
 
+# 📚 Quick Glimpse
+
 ## 📅 Week-1 (SQL Foundations)
-
-### 🚀 Day-1: SQL Basics & Database Concepts
-- SQL Fundamentals
-- Database Concepts
-- Basic Queries
-
-### 🚀 Day-2: SQL Clauses & Operators
-- WHERE Clause
-- ORDER BY
-- GROUP BY
-- HAVING
-- Logical Operators
-
-### 🚀 Day-3: SQL JOIN Operations
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL OUTER JOIN
-
-### 🚀 Day-4: Window Functions & CTEs
-- ROW_NUMBER()
-- RANK()
-- DENSE_RANK()
-- CTEs
-- Recursive CTEs
-
-### 🚀 Day-5: Advanced SQL Queries
-- Analytical Queries
-- Subqueries
-- Aggregate Functions
-- Running Totals
-
----
+- Day-1: SQL Basics & Database Concepts
+- Day-2: SQL Clauses & Operators
+- Day-3: SQL JOIN Operations
+- Day-4: Window Functions & CTEs
+- Day-5: Advanced SQL Queries
 
 ## 📅 Week-2 (SQL Functions Practice)
+- Day-1: Date Manipulation Functions
+- Day-2: NULL Functions
+- Day-3: Number Manipulation Functions
+- Day-4: REGEX
+- Day-5: NULL Value Handling
+- Day-6: String Functions
 
-### 🚀 Day-1: Date Manipulation Functions
-- CURDATE()
-- NOW()
-- DATE_FORMAT()
-- DATEDIFF()
-
-### 🚀 Day-2: NULL Functions
-- IFNULL()
-- COALESCE()
-- NULLIF()
-
-### 🚀 Day-3: Number Manipulation Functions
-- ROUND()
-- FLOOR()
-- CEIL()
-- POWER()
-
-### 🚀 Day-4: REGEX
-- Pattern Matching
-- Email Validation
-- Text Filtering
-
-### 🚀 Day-5: NULL Value Handling
-- NULL Calculations
-- Salary Handling
-- Stock Analysis
-
-### 🚀 Day-6: String Functions
-- CONCAT()
-- REPLACE()
-- TRIM()
-- UPPER()
-- LOWER()
-
----
-
-## 📅 Week-3 (Window Functions Practice)
-
-### 🚀 Day-1: Window Functions
-- ROW_NUMBER()
-- RANK()
-- DENSE_RANK()
-- LEAD()
-- LAG()
-- NTILE()
-
+## 📅 Week-3 (Window Functions & PySpark)
+- Day-1: Window Functions
+- Day-2: Read CSV Using Spark
+- Day-3: Pyspark-Operations
+- Day-4:ETL-PipeLines
 ---
 
 # 🧠 Skills Snapshot
